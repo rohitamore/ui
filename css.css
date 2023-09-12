@@ -1,0 +1,116 @@
+.close{
+    height: 702px ;
+    width: 100% ;
+}
+ ul li{
+    list-style: none !important;
+    
+}
+.image{
+    background-image: url(./img/Untitled-1\ 2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 3300px;
+    width: 100% !important;
+}
+.center{
+    justify-content: center;
+    text-align: center;
+    margin-top: 400px !important;
+}
+.project{
+    margin-top: 100px !important;
+    justify-content: center;
+    text-align: center;
+    font-size: 120px;
+}
+.project1{
+    margin-top: 20px !important;
+    justify-content: center;
+    text-align: center;
+    font-size: 90px;
+}
+.project2{
+    margin-top: 20px !important;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+}
+.heigh{
+   font-size: 40px;
+    background-color: rgb(149, 216, 149);
+    margin-left: 60px;
+}
+.glass{
+    font-size: 40px;
+    background-color: rgb(31, 90, 31);
+    margin-left: 60px;
+    border-radius: 2px;
+}
+.phone{
+    border-radius: 50%;
+    background-color: rgb(161, 218, 161);
+    font-size: 40px;
+  
+
+}
+.imge1{
+    height: 600px;
+    width: 100%;
+}
+.rectangle{
+    width: 220px;
+
+}
+.mts{
+    margin-top: 100px;
+}
+.text-btn{
+    margin-top: 200px;
+}
+.dark{
+   background-color: rgb(23, 23, 49);
+}
+.margin-start{
+    margin-left: 70px;
+}
+.mumbai{
+    color: rgb(139, 134, 134);
+}
+.ul {
+    list-style-type: disc;
+}
+.mas{
+    margin-left: 250px;
+}
+.mas1{
+    margin-left: 290px;
+}
+.man22{
+    border-radius: 30px;
+    font-size: 25px;
+    border-left: 80px;
+   
+}
+.mapping-img{
+    height: 387px;
+    width: 126%;
+    font-weight: 200px;
+
+}
+.ms12{
+    margin-left: 80px;
+}
+.bg-succes{
+    background-color: rgb(161, 206, 161);
+}
+.mt-kat{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 30px;
+
+}
+.bbs{
+    border-radius: 50%;
+}
